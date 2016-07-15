@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-const int maxn =3000;
 int main()
 {
     int a,b;
